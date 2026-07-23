@@ -52,9 +52,13 @@ To ensure data integrity prior to analysis, the following cleaning steps were pe
 
  # Detailed Findings & Insights
 
-**Income Impact**: Customers who purchased a bike had a higher average income (**$57,963**) compared to non-buyers (**$54,875**), indicating higher disposable income positively correlates with purchases.
-**Commute Distance**: The highest conversion rate occurred among individuals with short commutes (**0–1 miles**), while purchase likelihood decreased significantly for long commutes (**>10 miles**).
-**Age Demographics**: The **Adults (25–45)** demographic segment represents the largest customer base and the highest volume of bike buyers.
-**Regional Trends**: The **Pacific** region demonstrated the highest conversion percentage, while **North America** generated the largest total customer base.
+**Income Impact**:
+Customers who purchased a bike had a higher average income (**$57,963**) compared to non-buyers (**$54,875**), indicating higher disposable income positively correlates with purchases.
+**Commute Distance**: 
+The highest conversion rate occurred among individuals with short commutes (**0–1 miles**), while purchase likelihood decreased significantly for long commutes (**>10 miles**).
+**Age Demographics**:
+The **Adults (25–45)** demographic segment represents the largest customer base and the highest volume of bike buyers.
+**Regional Trends**: 
+The **Pacific** region demonstrated the highest conversion percentage, while **North America** generated the largest total customer base.
 
 ---
