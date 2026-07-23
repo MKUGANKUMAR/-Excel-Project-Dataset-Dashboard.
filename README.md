@@ -8,7 +8,7 @@ An end-to-end Excel data analysis project exploring customer demographics and pu
 
 Understanding demographic patterns is essential for optimizing marketing strategies and targeting high-conversion customer segments. This project analyzes a dataset of **1,000 customer records** to identify how factors such as **income levels, age groups, commute distance, and geographic region** influence bike purchasing decisions.
 
-📥 **[Download the Excel Data & Dashboard Workbook](./Excel%20Project%20Dataset.xlsx)**
+📥 **[Download the Excel Data & Dashboard Workbook](./Excel Project Dataset.xlsx)**
 
 ---
 
