@@ -1,10 +1,10 @@
-# 🚴 Bike Sales Data Analysis & Excel Dashboard
+#  Bike Sales Data Analysis & Excel Dashboard
 
 An end-to-end Excel data analysis project exploring customer demographics and purchasing behavior to uncover key drivers behind bicycle sales.
 
 ---
 
-Project Overview
+# Project Overview
 
 Understanding demographic patterns is essential for optimizing marketing strategies and targeting high-conversion customer segments. This project analyzes a dataset of **1,000 customer records** to identify how factors such as **income levels, age groups, commute distance, and geographic region** influence bike purchasing decisions.
 
@@ -12,7 +12,7 @@ Understanding demographic patterns is essential for optimizing marketing strateg
 
 ---
 
- Key Performance Indicators (KPIs)
+# Key Performance Indicators (KPIs)
 
  **Total Conversion Rate**: **48.1%** (481 out of 1,000 customers purchased a bike)
  **Average Buyer Income**: **$57,963** vs. **$54,875** for non-buyers (buyers earn **5.6% more** on average)
@@ -31,14 +31,14 @@ Understanding demographic patterns is essential for optimizing marketing strateg
 
 ---
 
- Tools & Technologies Used
+ # Tools & Technologies Used
 
 * **Microsoft Excel**: Data Cleaning, Pivot Tables, Formulas & Dashboarding
 * **Data Processing**: Duplicate removal, text standardization, and custom conditional binning
 
 ---
 
- Data Cleaning & Preparation Process
+ # Data Cleaning & Preparation Process
 
 To ensure data integrity prior to analysis, the following cleaning steps were performed:
 
@@ -50,7 +50,7 @@ To ensure data integrity prior to analysis, the following cleaning steps were pe
 
 ---
 
- Detailed Findings & Insights
+ # Detailed Findings & Insights
 
 **Income Impact**: Customers who purchased a bike had a higher average income (**$57,963**) compared to non-buyers (**$54,875**), indicating higher disposable income positively correlates with purchases.
 **Commute Distance**: The highest conversion rate occurred among individuals with short commutes (**0–1 miles**), while purchase likelihood decreased significantly for long commutes (**>10 miles**).
