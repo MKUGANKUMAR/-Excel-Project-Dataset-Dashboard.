@@ -21,7 +21,7 @@ Understanding demographic patterns is essential for optimizing marketing strateg
 * 🗺️ **Top Converting Region**: **Pacific Region** achieved the highest regional conversion rate (**58.9%**)
 
 ---
-
+https://github.com/MKUGANKUMAR/-Excel-Project-Dataset-Dashboard./blob/main/Screenshot%202026-07-23%20080302.png
 ## 🖼️ Dashboard Preview
 
 <a href="https://github.com/MKUGANKUMAR/-Excel-Project-Dataset-Dashboard./blob/main/Screenshot%202026-07-23%20080302.png">Dashboard Screenshot
@@ -57,10 +57,3 @@ To ensure data integrity prior to analysis, the following cleaning steps were pe
 * 🌍 **Regional Trends**: The **Pacific** region demonstrated the highest conversion percentage, while **North America** generated the largest total customer base.
 
 ---
-
-## 📁 Repository Structure
-
-```text
-├── Excel Project Dataset.xlsx     # Complete Excel file (Data, Pivots, Dashboard)
-├── dashboard_screenshot.png        # Dashboard screenshot for preview
-└── README.md                       # Project documentation
