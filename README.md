@@ -24,7 +24,7 @@ Understanding demographic patterns is essential for optimizing marketing strateg
 
 ## 🖼️ Dashboard Preview
 
-![Bike Sales Dashboard Screenshot](./dashboard_screenshot.png)
+<a href="https://github.com/MKUGANKUMAR/-Excel-Project-Dataset-Dashboard./blob/main/Screenshot%202026-07-23%20080302.png">Dashboard Screenshot
 
 > *Note: Open the Excel file locally to interact with dynamic slicers for Region, Education, and Marital Status.*
 
