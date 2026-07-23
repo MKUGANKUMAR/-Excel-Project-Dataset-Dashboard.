@@ -1,4 +1,4 @@
-Bike Sales Data Analysis & Excel Dashboard
+# 🚴 Bike Sales Data Analysis & Excel Dashboard
 
 An end-to-end Excel data analysis project exploring customer demographics and purchasing behavior to uncover key drivers behind bicycle sales.
 
